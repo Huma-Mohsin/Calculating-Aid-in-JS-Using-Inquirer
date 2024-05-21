@@ -1,0 +1,21 @@
+{
+  "name": "calculating_aid...a_calculator_by_using_inquirer",
+  "version": "1.0.0",
+  "description": "This is an interactive calculator which takes 2 digits and perform different operations.It can able to perform addition,subtraction,multiplication,divison over 2 digits. User can get remainder of two values and user can also get desired power of its desired value.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Huma Mohsin",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
